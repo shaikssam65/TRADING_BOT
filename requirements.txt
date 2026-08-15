@@ -1,0 +1,9 @@
+requests>=2.32.0
+python-dotenv>=1.0.1
+rich>=13.7.0
+openai>=1.40.0
+anthropic>=0.34.0
+streamlit>=1.37.0
+
+# Optional: install after Webull API access is approved
+# pip install webull-openapi-python-sdk
